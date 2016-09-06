@@ -1,0 +1,24 @@
+p {
+  color: silver;
+}
+.terzine p {
+  color: #3366FF;
+  font-style: italic;
+  line-height: 18px
+}
+.preferito {
+  font-weight: bold;
+  border: 1px dashed green;
+}
+.latino {
+  border: 1px dashed green;
+}
+img {
+  border: 3px solid red;
+  border-radius: 10px;
+  height: 300px;
+  width: 300px;
+}
+body {
+  font-family: verdana;
+}
